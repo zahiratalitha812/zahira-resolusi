@@ -1,5 +1,0 @@
-Hallo pak salam kenal nama saya zahra dari nganjuk
-
-Resolusi saya :
-- membuat wibsite menggunakan fremwork javascript
-- bekerja di start-up
